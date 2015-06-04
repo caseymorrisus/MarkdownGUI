@@ -1,0 +1,11 @@
+{
+  "name": "stylus-gui",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "gaze": "^0.5.1",
+    "html-minifier": "^0.7.2",
+    "lodash": "^3.9.3",
+    "markdown": "^0.5.0"
+  }
+}
